@@ -21,3 +21,4 @@
 
 #### FAQ
 
+[FAQ](./FAQ/FAQ.md)
