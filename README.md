@@ -13,7 +13,7 @@
 | ------------------------------ | ---------------------------------------------------- |
 | 课程介绍                       | [课程介绍](./lecture/Intro.md)                       |
 | Linux系统概述                  | [Linux系统概述](./lecture/Overview.md)               |
-| Linux系统安装与基本使用        | [Linux系统安装与基本使用](./lecture/installation.md) |
+| Linux系统安装与基本使用        | [Linux系统安装与基本使用](./lecture/Installation.md) |
 | Linux文件系统及命令（1）       |                                                      |
 | Linux文件系统及命令（2）       |                                                      |
 | Vim编辑器                      |                                                      |
