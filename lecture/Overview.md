@@ -105,10 +105,16 @@ Linux
 2. 发行版本
 
    Linux发行版本构成
+   
    Linux内核 ＋ 各种自由软件 ＝ 完整的操作系统
+   
    厂商提供的辅助安装、软件包管理等程序
+   
    发行版的名称、版本由发行厂商决定
+   
    Red Hat Enterprise Linux 7，由Red Hat公司发布
+   
    Suse Linux 11，由Novell公司发布
+   
    Debian Linux 7.5，由Debian社区发布
 
