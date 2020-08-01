@@ -16,7 +16,7 @@
 | Linux系统安装与基本使用        | [Linux系统安装与基本使用](./lecture/Installation.md) |
 | Linux文件系统及命令（1）       | [Linux文件系统及命令（1）](./lecture/cmd1.md)        |
 | Linux文件系统及命令（2）       | [Linux文件系统及命令（2）](./lecture/cmd2.md)        |
-| Vim编辑器                      |                                                      |
+| Vim编辑器                      | [Vim](./lecture/Vim.md)                              |
 | Linux系统管理基础（1）         |                                                      |
 | Linux系统管理基础（2）         |                                                      |
 | Shell编程（1）                 |                                                      |
