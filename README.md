@@ -17,8 +17,8 @@
 | Linux文件系统及命令（1）       | [Linux文件系统及命令（1）](./lecture/cmd1.md)        |
 | Linux文件系统及命令（2）       | [Linux文件系统及命令（2）](./lecture/cmd2.md)        |
 | Vim编辑器                      | [Vim](./lecture/Vim.md)                              |
-| Linux系统管理基础（1）         |                                                      |
-| Linux系统管理基础（2）         |                                                      |
+| Linux系统管理基础（1）         | [Linux系统管理基础（1）](./lecture/Mgmt1.md)         |
+| Linux系统管理基础（2）         | [Linux系统管理基础（2）](./lecture/Mgmt2.md)         |
 | Shell编程（1）                 |                                                      |
 | Shell编程（2）                 |                                                      |
 | LinuxC编程基础（1） --gcc、gdb |                                                      |
