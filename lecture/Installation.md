@@ -278,53 +278,6 @@ sudo apt install <package> 安装软件包
 
 sudo apt remove <package> --purge或者sudo apt purge <package> 删除软件包并删除配置文件
 
-更新日志：/var/log/dpkg.log
-
-其他用法：
-
-sudo apt search 'tag' 通过关键词搜索包
-
-sudo apt show <package> 查看包信息
-
-sudo apt autoremove 删除不需要的包
-
-下载的包的位置：/var/cache/apt/archives
-
-索引目录：/var/lib/apt/
-
-sudo apt download <package> 下载包
-
-sudo apt source <package> 下载源码
-
-sudo apt showsrc
-
-更新配置：
-
-更新源位置：/etc/apt/sources.list
-
-源的内容：
-
-deb http://cn.archive.ubuntu.com/ubuntu/ bionic main restricted universe multiverse
-
-cdrom:安装的时候用的老旧的源
-
-第一列：deb表示安装包，deb-src表示源码包
-
-第二列：软件仓库的url地址
-
-第三列：系统的codename
-
-sudo lsb_release -a查看系统信息
-
-第四列：库的内容构成
-    main：官方支持，提供源码，官方维护bug
-
-​    restricted：官方支持，不提供源码
-
-​    universe：社区支持
-
-​    multiverse：不开源，没有支持，可能存在危险
-
 ## Linux的GUI
 
 Linux的DE(Desktop Environment)多种多样
