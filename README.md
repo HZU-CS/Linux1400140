@@ -25,8 +25,8 @@
 | LinuxC编程基础（2） --make     |                                                      |
 | LinuxC编程基础（3） --系统调用 |                                                      |
 | Linux内核与应用                |                                                      |
-| Linux网络管理及服务（1）       |                                                      |
-| Linux网络管理及服务（2）       |                                                      |
+| Linux网络管理及服务（1）       | [Linux网络管理及服务（1）](./lecture/Service1.md)    |
+| Linux网络管理及服务（2）       | [Linux网络管理及服务（2）](./lecture/Service2.md)    |
 
 #### Lab
 
