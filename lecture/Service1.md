@@ -2,7 +2,7 @@
 
 ## Linux网络管理命令
 
-### ipconfig
+### ifconfig
 
 ifconfig用于查看和更改网络接口的地址和参数。常用参数如下：
 
