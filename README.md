@@ -21,7 +21,7 @@
 | Linux系统管理基础（2）         | [Linux系统管理基础（2）](./lecture/Mgmt2.md)         |
 | Shell编程（1）                 |                                                      |
 | Shell编程（2）                 |                                                      |
-| LinuxC编程基础（1） --gcc、gdb |                                                      |
+| LinuxC编程基础（1） --gcc、gdb | [LinuxC编程基础（1） --gcc、gdb](./lecture/C1.md)    |
 | LinuxC编程基础（2） --make     |                                                      |
 | LinuxC编程基础（3） --系统调用 |                                                      |
 | Linux内核与应用                |                                                      |
