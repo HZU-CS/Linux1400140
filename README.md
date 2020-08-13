@@ -20,7 +20,7 @@
 | Linux系统管理基础（1）         | [Linux系统管理基础（1）](./lecture/Mgmt1.md)         |
 | Linux系统管理基础（2）         | [Linux系统管理基础（2）](./lecture/Mgmt2.md)         |
 | Shell编程（1）                 | [Shell编程（1）](./lecture/Shell1.md)                |
-| Shell编程（2）                 |                                                      |
+| Shell编程（2）                 | [Shell编程（2）](./lecture/Shell2.md)                |
 | LinuxC编程基础（1） --gcc、gdb | [LinuxC编程基础（1） --gcc、gdb](./lecture/C1.md)    |
 | LinuxC编程基础（2） --make     | [LinuxC编程基础（2） --make](./lecture/C2.md)        |
 | LinuxC编程基础（3） --系统调用 | [LinuxC编程基础（3） --系统调用](./lecture/C3.md)    |
