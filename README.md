@@ -23,7 +23,7 @@
 | Shell编程（2）                 |                                                      |
 | LinuxC编程基础（1） --gcc、gdb | [LinuxC编程基础（1） --gcc、gdb](./lecture/C1.md)    |
 | LinuxC编程基础（2） --make     | [LinuxC编程基础（2） --make](./lecture/C2.md)        |
-| LinuxC编程基础（3） --系统调用 |                                                      |
+| LinuxC编程基础（3） --系统调用 | [LinuxC编程基础（3） --系统调用](./lecture/C3.md)    |
 | Linux内核与应用                |                                                      |
 | Linux网络管理及服务（1）       | [Linux网络管理及服务（1）](./lecture/Service1.md)    |
 | Linux网络管理及服务（2）       | [Linux网络管理及服务（2）](./lecture/Service2.md)    |
