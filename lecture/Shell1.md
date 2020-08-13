@@ -373,5 +373,3 @@ echo '$$' is $$
 echo "end"
 ```
 
-
-
