@@ -73,13 +73,13 @@ echo "$var2"
 
   使用第二种方法进行条件测试时，必须在[ ]前后保 留空格，否则shell提示error
 
-![condition](C:/Users/cxhhg/Documents/Github/Course/Linux1400140/lecture/Shell/condition.png)
+![condition](./Shell/condition.png)
 
 注意：字符串比较时=两边有空格
 
-![comp](C:/Users/cxhhg/Documents/Github/Course/Linux1400140/lecture/Shell/comp.png)
+![comp](./Shell/comp.png)
 
-![file](C:/Users/cxhhg/Documents/Github/Course/Linux1400140/lecture/Shell/file.png)
+![file](./Shell/file.png)
 
 #### 逻辑运算
 
