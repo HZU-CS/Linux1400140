@@ -41,7 +41,7 @@
    6. 输入以下命令查看结果
 
       ```shell
-   echo -e hello"\b"world
+      echo -e hello"\b"world
       ```
 
    7. 在终端输出下面内容
