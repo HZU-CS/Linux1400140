@@ -30,18 +30,18 @@
 
 #### Lab
 
-| 实验                             | 链接                    |
-| -------------------------------- | ----------------------- |
-| Lab1**Linux安装及环境基本使用**  | [Lab1](./lab/lab1.md)   |
-| Lab2**Linux文件系统及命令（1）** | [Lab2](./lab/lab2.md)   |
-| Lab3**Linux文件系统及命令（2）** | [Lab3](./lab/lab3.md)   |
-| Lab4**Vim编辑器**                | [Lab4](./lab/lab4.md)   |
-| Lab5**系统管理基础**             | [Lab5](./lab/lab5.md)   |
-| Lab6**Shell编程**                | [Lab6](./lab/lab6.md)   |
-| Lab7**linuxC编程基础（1）**      | [Lab7](./lab/lab7.md)   |
-| Lab8**linuxC编程基础（2）**      | [Lab8](./lab/lab8.md)   |
-| Lab9**网络管理及服务（1）**      | [Lab9](./lab/lab9.md)   |
-| Lab10**网络管理及服务（2）**     | [Lab10](./lab/lab10.md) |
+| 实验                             | 链接                        |
+| -------------------------------- | --------------------------- |
+| Lab1**Linux安装及环境基本使用**  | [Lab1](./lab/lab1.md)       |
+| Lab2**Linux文件系统及命令（1）** | [Lab2](./lab/lab2.md)       |
+| Lab3**Linux文件系统及命令（2）** | [Lab3](./lab/lab3.md)       |
+| Lab4**Vim编辑器**                | [Lab4](./lab/lab4.md)       |
+| Lab5**系统管理基础**             | [Lab5](./lab/lab5.md)       |
+| Lab6**Shell编程**                | [Lab6](./lab/lab6.md)       |
+| Lab7**linuxC编程基础（1）**      | [Lab7](./lab/lab7.md)       |
+| Lab8**linuxC编程基础（2）**      | [Lab8](./lab/lab8.md)       |
+| Lab9**网络管理及服务（1）**      | [Lab9-10](./lab/lab9-10.md) |
+| Lab10**网络管理及服务（2）**     | [Lab9-10](./lab/lab9-10.md) |
 
 #### Project
 
