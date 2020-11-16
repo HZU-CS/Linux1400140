@@ -1,4 +1,4 @@
-# Lab6 **Shell编程**
+# Lab9 **Shell编程**
 
 实验目的
 
