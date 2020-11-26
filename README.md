@@ -42,6 +42,10 @@
 | Lab9**Shell编程**                | [Lab9](./lab/lab9.md)     |
 | Lab10**系统管理基础**            | [Lab10](./lab/lab10.md)   |
 
+![all](./Linux.png)
+
+https://www.linuxprobe.com/linux-mind-it.html
+
 #### Project
 
 [Project](./project/project.md)
