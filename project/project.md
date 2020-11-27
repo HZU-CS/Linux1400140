@@ -10,7 +10,7 @@ https://docs.qq.com/sheet/DVmRSRUJXTmttaktV
 1. 使用远程云服务器(10%)
 2. 部署HTTP服务器(10%)
 3. 部署以下任意一项服务器(10%)
-   1. Web(Spring boot或者PHP或者Go等等，至少5个页面)
+   1. Web(Spring boot或者PHP或者Go等等，至少5个请求)
    2. FTP
    3. Mail(SMTP或者POP3或者IMAP)
    4. DNS
