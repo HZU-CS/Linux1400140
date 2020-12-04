@@ -30,5 +30,14 @@ https://docs.qq.com/sheet/DVmRSRUJXTmttaktV
    2. 查看所有用户，用户组和权限(10%)
    3. 可以使用Shell接口(10%)
    4. 查看文件系统(15%)
+   
+   > 参考
+   >
+   > [Grafana: The open observability platform | Grafana Labs](https://grafana.com/)
+   
 2. 服务器实现分布式和负载均衡(10%)
+
+   > 参考
+   >
+   > [gRPC – A high-performance, open source universal RPC framework](https://grpc.io/)
 
