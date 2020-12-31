@@ -76,6 +76,6 @@ w
 查看系统日志
 
 ```bash
-cat /vat/log/syslog
+cat /var/log/syslog
 ```
 
